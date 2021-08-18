@@ -1,5 +1,5 @@
-# personal_target
-This is my personal target check-list
+# Personal Target
+This is my personal target check-list.
 
 ## 2021
 ### 8 月份
