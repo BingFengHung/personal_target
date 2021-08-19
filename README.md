@@ -6,13 +6,15 @@ This is my personal target check-list.
 #### Github Pages
 - [ ] React-Router Refresh
 - [ ] 再除了首頁的其他頁面 footer 的地方加入回首頁按鈕
-- [X] 加入 Github 專案的標籤
+- [x] 加入 Github 專案的標籤
+  - [x] 顯示 Github 專案 README.md 的檔案
+  - [x] 使用專案的最新 push 的日期依序排序
   - [ ] 需要再調整版面樣式
 - [ ] 引入 scss
 - [ ] 引入 Next.js
 
 #### Mobile
-- [ ] 三軸負載
+- [x] 三軸負載
   - [x] 在 frame 上面加上 hasShadow = false 可以把 Frame 的 shadow 拿掉與 Android 一致 (8.18)
 - [ ] 刀庫顯示
   - [x] 加入 iOS 觸碰功能 (8.18)
