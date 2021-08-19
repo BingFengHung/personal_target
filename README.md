@@ -10,6 +10,7 @@ This is my personal target check-list.
   - [x] 顯示 Github 專案 README.md 的檔案
   - [x] 使用專案的最新 push 的日期依序排序
   - [ ] 需要再調整版面樣式
+  - [x] 修正圖片無法正常顯示的問題
 - [ ] 製作 Github 頁面載入動畫
 - [ ] 加入 todo-list (與 github 結合)
 - [ ] 引入 scss
