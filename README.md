@@ -6,7 +6,8 @@ This is my personal target check-list.
 #### Github Pages
 - [ ] React-Router Refresh
 - [ ] 再除了首頁的其他頁面 footer 的地方加入回首頁按鈕
-- [ ] 加入 Github 專案的標籤
+- [X] 加入 Github 專案的標籤
+  - [] 需要再調整版面樣式
 - [ ] 引入 scss
 - [ ] 引入 Next.js
 
