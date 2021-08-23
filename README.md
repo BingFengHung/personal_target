@@ -13,7 +13,7 @@ This is my personal target check-list.
   - [x] 修正圖片無法正常顯示的問題
 - [X] 讀取公開的一個 GitHub(裡面放置 md 文件)
   - [X] 製作一個簡單讀取 markdown 文件的結構，可以用來做類似資料夾結構
-  - [ ] 目前文章點擊時，沒辦法像之前一樣使用 Router-Link 待解決
+  - [x] 目前文章點擊時，沒辦法像之前一樣使用 Router-Link 待解決
 - [ ] 製作 Github 頁面載入動畫
 - [ ] 加入 todo-list (與 github 結合)
 - [ ] 引入 scss
@@ -25,7 +25,7 @@ This is my personal target check-list.
 - [x] 刀庫顯示
   - [x] 加入 iOS 觸碰功能 (8.18)
   - [x] 縮放問題待解決
-  - [ ] 調整回原點的按鈕樣式
+  - [x] 調整回原點的按鈕樣式
 - [x] 刀具補正 (8.17)
 - [ ] 加工程式分析
 
