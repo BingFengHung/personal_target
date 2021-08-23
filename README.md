@@ -22,9 +22,10 @@ This is my personal target check-list.
 #### Mobile
 - [x] 三軸負載
   - [x] 在 frame 上面加上 hasShadow = false 可以把 Frame 的 shadow 拿掉與 Android 一致 (8.18)
-- [ ] 刀庫顯示
+- [x] 刀庫顯示
   - [x] 加入 iOS 觸碰功能 (8.18)
-  - [ ] 縮放問題待解決
+  - [x] 縮放問題待解決
+  - [ ] 調整回原點的按鈕樣式
 - [x] 刀具補正 (8.17)
 - [ ] 加工程式分析
 
