@@ -15,7 +15,9 @@ This is my personal target check-list.
   - [X] 製作一個簡單讀取 markdown 文件的結構，可以用來做類似資料夾結構
   - [x] 目前文章點擊時，沒辦法像之前一樣使用 Router-Link 待解決
 - [x] 製作 Github 頁面載入動畫
-- [ ] 加入 todo-list (與 github 結合)
+  - [ ] 找尋比較適合的載入動畫
+  - [ ] 將需要比較長時間載入的畫面加上載入動畫 
+- [x] 加入 todo-list (與 github 結合)
 - [ ] 引入 scss
 - [ ] 引入 Next.js
 
