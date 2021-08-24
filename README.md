@@ -14,7 +14,7 @@ This is my personal target check-list.
 - [X] 讀取公開的一個 GitHub(裡面放置 md 文件)
   - [X] 製作一個簡單讀取 markdown 文件的結構，可以用來做類似資料夾結構
   - [x] 目前文章點擊時，沒辦法像之前一樣使用 Router-Link 待解決
-- [ ] 製作 Github 頁面載入動畫
+- [x] 製作 Github 頁面載入動畫
 - [ ] 加入 todo-list (與 github 結合)
 - [ ] 引入 scss
 - [ ] 引入 Next.js
