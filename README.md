@@ -4,7 +4,7 @@ This is my personal target check-list.
 ## 2021
 ### 8 月份
 #### Github Pages
-- [ ] React-Router Refresh
+- [x] React-Router Refresh
 - [ ] 再除了首頁的其他頁面 footer 的地方加入回首頁按鈕
 - [x] 加入 Github 專案的標籤
   - [x] 顯示 Github 專案 README.md 的檔案
