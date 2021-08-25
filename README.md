@@ -18,6 +18,8 @@ This is my personal target check-list.
   - [ ] 找尋比較適合的載入動畫
   - [ ] 將需要比較長時間載入的畫面加上載入動畫 
 - [x] 加入 todo-list (與 github 結合)
+  - [ ] 將目標改為年度、當月與過去的標籤
+  - [ ] 第一個標籤為當月目標標籤
 - [ ] 引入 scss
 - [ ] 引入 Next.js
 
